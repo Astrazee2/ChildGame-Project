@@ -1,4 +1,4 @@
-# 🎮 Children's Drag-and-Drop Game
+# Children's Drag-and-Drop Game
 
 ## 📌 Overview
 This program is a **children’s educational drag-and-drop game** designed to help young learners develop **categorization, decision-making, and motor skills** through fun and interactive activities.
@@ -7,9 +7,9 @@ The game features **three different mini-games**, each focusing on real-life con
 
 ---
 
-## 🧩 Game Types
+##  Game Types
 
-### 1️⃣ Trash Sorting Game
+### 1️ Trash Sorting Game
 Children drag and drop items into the correct trash bin.
 
 **Goal:**
@@ -22,7 +22,7 @@ Children drag and drop items into the correct trash bin.
 
 ---
 
-### 2️⃣ Picnic Basket Sorting Game
+### 2️ Picnic Basket Sorting Game
 Players sort food and items into the correct picnic baskets based on category.
 
 **Goal:**
@@ -36,7 +36,7 @@ Players sort food and items into the correct picnic baskets based on category.
 
 ---
 
-### 3️⃣ Job Selection Game
+### 3️ Job Selection Game
 Children drag characters or tools to match the correct profession.
 
 **Goal:**
@@ -50,14 +50,14 @@ Children drag characters or tools to match the correct profession.
 
 ---
 
-## 🎯 Educational Objectives
+##  Educational Objectives
 - Enhance hand-eye coordination through drag-and-drop interaction
 - Develop logical thinking and categorization skills
 - Promote learning through play
 
 ---
 
-## 🛠️ Key Features
+##  Key Features
 - Simple and child-friendly interface
 - Interactive drag-and-drop mechanics
 - Bright visuals suitable for kids
@@ -65,13 +65,13 @@ Children drag characters or tools to match the correct profession.
 
 ---
 
-## 👶 Target Audience
+##  Target Audience
 - Children (early learners)
 - Suitable for preschool and elementary levels
 
 ---
 
-## 🚀 How to Play
+##  How to Play
 1. Choose a game mode
 2. Drag the items on the screen
 3. Drop them into the correct category
@@ -79,10 +79,10 @@ Children drag characters or tools to match the correct profession.
 
 ---
 
-## 📄 License
+##  License
 This project is intended for **educational purposes**.
 
 ---
 
-✨ *Learning made fun through play!*
+ *Learning made fun through play!*
 
